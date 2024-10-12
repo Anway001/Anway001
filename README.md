@@ -27,8 +27,8 @@
       </a> -->
     </td>
     <td align="center">
-      <a href="[https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank](https://www.linkedin.com/in/anway-kharsamble-5b49442b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA6j%2B486rSHaX%2FD7Do%2FJ4WA%3D%3D)">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="Anway Kharsamble">
+      <a href="https://www.linkedin.com/in/anway-kharsamble-5b49442b0">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.comwww.linkedin.com/in/anway-kharsamble-5b49442b0&subtitle=@Anway&size=square" alt="Anway Kharsamble">
       </a>
     </td>
    <td align="center">
